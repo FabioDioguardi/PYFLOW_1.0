@@ -1,0 +1,72 @@
+ Data summary
+ Two layer method
+Density of the entrained particle (kg/m^3)         1450.000
+Diameter of the entrained particle (m)                0.049
+Particle density (kg/m^3)                          1273.000
+Particle equivalent diameter of the median size (mm)  0.6830
+Sorting particle grainsize distribution (phi)         2.380
+Particle shape factor (-)                             0.324
+Classes number particle grainsize distribution (-)   18.
+Significance level t-test (-)                         0.050
+Layer thickness (m)                                   0.50000
+Sublayer thickness (m)                                0.00068
+Particle concentration in the layer (-)               0.750
+Substrate roughness (m)                               0.01000
+
+ 
+ Results
+Average density (kg/m^3)                                 0.000
+Maximum density (kg/m^3)                                 0.000
+Minimum density (kg/m^3)                                 0.000
+Average total flow thickness (m)                       299.256
+Maximum total flow thickness (m)                       361.906
+Minimum total flow thickness (m)                        90.277
+Average shear flow thickness (m)                        83.327
+Maximum shear flow thickness (m)                       116.515
+Minimum shear flow thickness (m)                        17.215
+Average shear velocity (m/s)                             0.000
+Maximum shear velocity (m/s)                             0.000
+Minimum shear velocity (m/s)                             0.000
+Average velocity shear stress (Pa)                       0.000
+Maximum velocity shear stress (Pa)                       0.000
+Minimum velocity shear stress (Pa)                       0.000
+Average specific 10m dynamic pressure (Pa)            6994.787
+Maximum specific 10m dynamic pressure (Pa)            8877.397
+Minimum specific 10m dynamic pressure (Pa)            2810.263
+Average 2m particle concentration (-)               .70139E-02
+Maximum 2m particle concentration (-)               .80153E-02
+Minimum 2m particle concentration (-)               .50827E-02
+
+ ### User requested outputs ###
+z =  5.00
+Average specific dynamic pressure (Pa)              8028.156
+Maximum specific dynamic pressure (Pa)             11005.161
+Minimum specific dynamic pressure (Pa)              4463.540
+
+
+ 
+ Test t-Student summary
+Significance level     0.004500
+Theoretical t value    2.948
+Calculated t value     2.938
+
+
+ ###### PROBABILITY FUNCTIONS ######
+ 10 m dynamic pressure probability function
+Symmetrization exponent   2.731
+Median  0.3150E+11
+Standard deviation  0.2889E+11
+
+
+ 2 m particle concentration probability function
+Symmetrization exponent   4.132
+Median  0.1258E-08
+Standard deviation  0.9252E-09
+
+
+  5.00 dynamic pressure probability function
+Symmetrization exponent   1.422
+Median  0.3571E+06
+Standard deviation  0.2022E+06
+
+
