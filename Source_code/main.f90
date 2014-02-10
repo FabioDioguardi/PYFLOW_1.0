@@ -11,7 +11,8 @@
       integer :: i,ipr,ic,ndynpr,nc,nmod,ninp,ndata
       common/c1/ fx,alfa,usqnrm
       common/tres/ tcalc,ttab
-      common/forprof/ dennrm,denmax,denmin,tauavg,taumax,taumin,ushavg,ushmax,ushmin
+      common/forprof1/ dennrm,denmax,denmin,tauavg,taumax,taumin
+      common/forprof2/ ushavg,ushmax,ushmin
       common/prof/ densp,ztot,ztavg,ztmax,ztmin,z0avg,z0max,z0min,pnsavg,pnsmax,pnsmin
       common/prof1/ p10av1,p10mx1,p10mn1,c2av1,c2max1,c2min1,pzav1,pzmax1,pzmin1,czav1,czmax1,czmin1
       common/prof2/ zsfavg,zsfmax,zsfmin
